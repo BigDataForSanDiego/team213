@@ -28,4 +28,4 @@
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
-#### Team Members `Jordan Urabe(jurabe1100), Nolan Matura, Anna Skulteti, Jorge Millan(lefac, Daniel Barajas, and Stockton Quinn`
+#### Team Members `Jordan Urabe(jurabe1100), Nolan Matura, Anna Skulteti, Jorge Millan(lefachies), Daniel Barajas, and Stockton Quinn`
