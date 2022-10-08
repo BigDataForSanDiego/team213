@@ -5,7 +5,7 @@
 #### Team Name: `HeartHackers`    
   
 #### Your team’s hackathon idea in One sentence:
-#### `Affordable device(s) that collect cardiac, respitory, and other health data and uses the data to train a machine learning algorithim to predict and allart cardiac arrest or other threatening heart conditions while people are sleeping`
+#### `An affordable device that monitors and collects cardiac rhythm, respiratory, and blood oxygen data in order to train a machine learning model to accurately predict cardiac arrest or a life threatening heart rhythm as well as alert necessary parties.`
 
 #### A visual
 
