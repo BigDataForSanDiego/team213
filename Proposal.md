@@ -5,7 +5,7 @@
 #### Team Name: `HeartHackers`    
   
 #### Your team’s hackathon idea in One sentence:
-##### `Sleep monitoring device that tracks; heartbeat, respiration, and more to predict when the user is having life threatening events in their sleep.`
+##### `Sleep monitoring device that tracks: heartbeat, respiration, and more, to predict when the user is having life threatening events in their sleep.`
 
 
 #### A visual
