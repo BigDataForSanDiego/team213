@@ -5,7 +5,7 @@
 #### Team Name: `HeartHackers`    
   
 #### Your team’s hackathon idea in One sentence:
-#### `A set of affordable devices that collect cardiac, respitory, and other types of data and uses this data to train a machine learning algorithim to predict and allart cardiac arrest or other life threatening conditions while people are sleeping`
+#### `Affordable devices that collect cardiac, respitory, and other health data and uses the data to train a machine learning algorithim to predict and allart cardiac arrest or other life threatening conditions while people are sleeping`
 
 #### A visual
 
@@ -27,4 +27,4 @@
 
 #### Team Coordinator GitHub Username: `Lefachies`
 
-#### Team Members `Jordan Urabe(jurabe1100), Nolan Matura, Anna Skulteti (Panni213), Jorge Millan(lefachies), Daniel Barajas (danielbarjas123), Aimee Carvajal (a-carvahal), and Stockton Quinn(stockquinn3)`
+#### Team Members `Jordan Urabe(jurabe1100), Nolan Matura, Anna Skulteti (Panni213), Jorge Millan(lefachies), Daniel Barajas (danielbarjas123), Aimee Carvajal (a-carvahal), and Stockton Quinn`
