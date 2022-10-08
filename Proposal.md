@@ -27,4 +27,4 @@
 
 #### Team Coordinator GitHub Username: `Lefachies`
 
-#### Team Members `Jordan Urabe(jurabe1100), Nolan Matura, Anna Skulteti, Jorge Millan(lefachies), Daniel Barajas, Aimee Carvajal, and Stockton Quinn`
+#### Team Members `Jordan Urabe(jurabe1100), Nolan Matura, Anna Skulteti (Panni213), Jorge Millan(lefachies), Daniel Barajas, Aimee Carvajal, and Stockton Quinn`
